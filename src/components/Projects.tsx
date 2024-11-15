@@ -23,11 +23,12 @@ const Projects = () => {
                         <p className='text-[13px] text-gray-700'> Created a responsive and visually engaging website using React, Tailwind CSS, and TypeScript. The site showcases dynamic features, modern UI components, and seamless functionality for an enhanced user experience.
 
                         </p>
-                        <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/vishu-2004/Portfolio-Website" target="_blank" rel="noopener noreferrer">
                             <p className='mt-2 underline text-[14px] font-semibold text-primaryDarkBlue'>
                                 GitHub
                             </p>
                         </a>
+
 
                     </div>
                 </div>
@@ -44,7 +45,11 @@ const Projects = () => {
                         <p className='text-[13px] text-gray-700'>Tastebuds is a mobile app built with React Native and Expo, utilizing the Spoonacular API.
                             This app includes features such as filtering recipes by category, saving favorite recipes, and searching for recipes effortlessly.
                         </p>
-                        <p className='mt-2 underline text-[14px] font-semibold text-primaryDarkBlue '>GitHub</p>
+                        <a href="https://github.com/vishu-2004/TasteBuds" target="_blank" rel="noopener noreferrer">
+                            <p className='mt-2 underline text-[14px] font-semibold text-primaryDarkBlue'>
+                                GitHub
+                            </p>
+                        </a>
                     </div>
 
                 </div>
@@ -60,7 +65,11 @@ const Projects = () => {
                         <p className='text-[18px] font-semibold'>Iot Gate Control App</p>
                         <p className='text-[13px] text-gray-700'>Designed and developed a robust IoT-based gate control application using React Native and Expo.Implemented role-based access management to enhance security and functionality.
                         </p>
-                        <p className='mt-2 underline text-[14px] font-semibold text-primaryDarkBlue '>GitHub</p>
+                        <a href="https://github.com/vishu-2004/IoT-Gate-Control-and-Access-management-app" target="_blank" rel="noopener noreferrer">
+                            <p className='mt-2 underline text-[14px] font-semibold text-primaryDarkBlue'>
+                                GitHub
+                            </p>
+                        </a>
                     </div>
 
                 </div>
